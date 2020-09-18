@@ -8,18 +8,6 @@ import java.util.*;
  **/
 public class Lab2 {
     public static void main(String[] args) {
-        /*
-            Instructions for Use
-            ---- (Scanner command-run)
-            Write a program that does the following
-                I. Read your name (typing in keyboard)
-                    a. Print a greeting (print system.out.print)
-                II. Read your favorite artist or author
-                    a. Print your favorite song or book by that artist
-                III. Read your age (.next.int)
-                    a. Print the number of days you've been alive (an estimate is fine)
-         */
-
 
         // Part I code below
         Scanner input = new Scanner(System.in);
