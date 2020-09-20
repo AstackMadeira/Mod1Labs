@@ -7,6 +7,16 @@ import java.util.*;
  * Date: 9/17/2020
  **/
 public class Lab3 {
+    /*
+        Grades and comments below
+        -------------------------
+        Annabelle -
+        For part i, your code will only print out the first statement.
+        For part ii, your code works well but you can re-use the month variable!
+        For part iii, great work! A reasonably accurate estimate!
+
+        8/10
+    */
     public static void main(String[] args) {
 
         // Part I code below
