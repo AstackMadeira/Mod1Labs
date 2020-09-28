@@ -5,7 +5,18 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class SuperLab {
+    /*
+    Annabelle-
+        While your code is well organized and close to functional, this program doesn't
+        actually run. You'll need some re-organization of your classes to make sure 
+        this functions properly. Please see me for a more detailed run-through.
+
+        Regardless, this was a tough lab and you showed strong conceptual understanding.
+
+    */
     public static void main(String[] args) {
+        
+
         try {
             File myObj1 = new File("/Users/AnnabelleStack/Downloads/artistList.txt");
             Scanner myReader = new Scanner(myObj1);
